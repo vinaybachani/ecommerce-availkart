@@ -1,0 +1,33 @@
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+    .theme-bg{
+        background-color: #FF7E1F;
+    }
+
+    .text-navy{
+        color: #1D2C43;
+    }
+
+    .forgot-password-text{
+        position: relative; 
+        bottom: 15px;
+    }
+
+    .pwd-page{
+        position: relative;
+        top: 180px;
+    }
+
+    .reg-page{
+        position: relative; 
+        top: 30px;
+    }
+
+    .fa-eye,.fa-eye-slash{
+        position: absolute; 
+        right: 65px; 
+        bottom: 165px;
+    }

@@ -1,0 +1,25 @@
+.bg-navy{
+    background-color: #222F3F;
+}
+.ticket-chat-body{
+    height: 100vh;
+    overflow-y: scroll;
+}
+.card-body::-webkit-scrollbar {
+    display: none;
+}
+
+.ticket-chat-body{
+    height: 100vh; 
+    overflow-y: scroll;
+}
+
+.convo1{
+    background-color: #E2D5D1;
+    bottom: 200px;
+}
+.convo2{
+    background-color: #D9D9D9;
+    bottom: 100px;
+    right: 35px;
+}

@@ -1,0 +1,20 @@
+.card{
+    border-radius: 8px;
+}
+    
+.card-body p{
+    padding-bottom: 30px;
+}
+    
+.add-address-btn{
+    background-color: #222F3F;
+}
+    
+.add-address-option{
+    font-size: 16px;
+}
+
+.theme-color{
+    color: #FF7E1F;
+}
+    

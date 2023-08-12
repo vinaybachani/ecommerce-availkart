@@ -1,0 +1,31 @@
+.navy-button{
+    background-color: #222F3F;
+}
+
+.order-div::-webkit-scrollbar {
+    display: none;
+}    
+
+.order-table-body{
+    height: 100px;
+    transform: translateY(20%);
+}
+
+.order-img{
+    width: 60px;
+    height: 90px;
+}
+
+.order-status-div{
+    background-color: #F9E2A9;
+    height: 25px;
+    border-radius: 8px;
+}
+
+.add-address-btn{
+    background-color: #222F3F;
+}
+    
+.add-address-option{
+    font-size: 25px;
+}

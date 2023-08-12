@@ -1,0 +1,196 @@
+    #billing_address_checkbox:checked ~ .billing_address_details{
+        display: none;
+    }
+    .header7 {
+        padding-top: calc(10px + (20 - 10) * ((100vw - 320px) / (1920 - 320)));
+        padding-bottom: calc(10px + (20 - 10) * ((100vw - 320px) / (1920 - 320)));
+        background-color: #222f3f;
+        position: relative;
+        border-bottom: 1px solid #222f3f;
+    }
+
+    .footer1 {
+        padding-top: calc(30px + (60 - 30) * ((100vw - 320px) / (1920 - 320)));
+        padding-bottom: calc(30px + (60 - 30) * ((100vw - 320px) / (1920 - 320)));
+        background-color: #222F3F;
+    }
+    .footer-title h5 {
+        font-size: calc(14px + (18 - 14) * ((100vw - 320px) / (1920 - 320)));
+        text-transform: uppercase;
+        color: #FFF;category-slide7
+        font-family: "Raleway", sans-serif;
+    }
+    .footer-contant ul li a {
+        color: #fff;
+    }
+
+    body {
+        font-family: "PT Sans", sans-serif;
+        font-size: 14px;
+        color: #fff;
+    }
+
+    .pointer{
+        cursor: pointer;
+    }
+
+    .subfooter {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: #222F3F;
+    }
+
+    .bg-light {
+        background-color: #FAFAFA !important;
+    }
+
+    ::selection {
+        background-color: #FF7E1F;
+        color: #FF7E1F;
+    }
+
+    .category1 {
+        padding-top: calc(0px + (60 - 25) * ((100vw - 320px) / (1920 - 320)));
+        padding-bottom: calc(0px + (60 - 25) * ((100vw - 320px) / (1920 - 320)));
+        background-color: #FAFAFA;
+    }
+    .category1 .category-box .img-wrapper{
+        border-radius: 10px;
+    }
+    .category1 .shopping-box .img-wrapper{
+        border-radius: 10px;
+    }
+    .search-input{
+        border-radius: 40px;
+    }
+    .input-group-icon{
+        position: relative;
+        left: 30px;
+        top: 17px;
+        z-index: 100;
+        font-size: 19px;
+        color: grey;
+    }
+    .header-search {
+        width: 850px;
+    }
+    input::placeholder {
+        text-align: center;
+    }
+    .pro-price{
+        cursor: pointer;
+    }
+    body {
+        font-family: "Work Sans";
+        font-size: 14px;
+        color: #000;
+    }
+    .header-search .input-group .form-control, .header-search .input-group .typeahead{
+        margin-top: 15px;
+        height: 35px;
+    }
+    .product .product-box .product-imgbox{
+        border-radius: 22px;
+    }
+    .product .product-box .product-detail.product-detail2{
+        background-color: transparent;
+        padding: 0px;
+    }
+    .product .product-box{
+        padding: 4px;
+        background:#fff;
+        border-radius: 15px;
+        margin: 10px;
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 0px 5px;
+    }
+    .product-imgbox .product-icon{
+        opacity: 1 !important;
+    }
+    .product .product-box .product-imgbox .product-icon a{
+        border: none;
+    }
+    .product .product-box .product-imgbox .new-label::before{
+        border-top: none;
+    }
+    .product .product-box .product-imgbox .new-label i{
+        color:#FF7E1F;
+        font-size: 20px;
+    }
+    .product .product-box .product-imgbox .product-icon a svg{
+        color:  #FF7E1F;
+        fill:  #FF7E1F;
+    }
+    .discount-text{
+        background-color: #FF7E1F;
+        color: #fff;
+        text-align: center;
+        border-radius: 20px;
+    }
+    .discount-price-text{
+        font-size: 12px !important;
+        color: #D40000 !important;
+
+    }
+    .price-text{
+        font-size: 12px !important;
+        color:#ACACAC !important;
+    }
+    .product .product-box .product-imgbox .new-label{
+        font-size: 20px;
+    }
+    .product .product-box .product-imgbox .product-icon a svg{
+        width: calc(18px + (18 - 14) * ((100vw - 320px) / (1920 - 320)));
+    }
+    .category-details{
+        position: relative;
+        bottom: 115px;
+    }
+    .title8{
+        text-align: start;
+        margin: 0px;
+        margin-bottom: 10px;
+        
+    }
+    .view-all{
+        color: #fb6436;
+        
+    }
+    .view-all h3{
+        font-weight: 400;
+        font-size: 20px;
+    }
+    .footer-contant{
+        color:#fff;
+    }
+    .collection-banner .collection-banner-main{
+        border-radius: 20px;
+    }
+    .btn{
+        border-radius: 20px;
+    }
+
+    .feature-timer{
+        background: #e9e7ec;
+        border-radius: 10px;
+    }
+    .timer-title{
+        font-size: 30px;
+        margin:auto;
+    }
+    .counter-section{
+        color:#fff;
+        font-size: 20px;
+    }
+
+    .verital-product-design{
+        padding: 10px;
+        background: #fff;
+        border-radius: 21px;
+        margin: 10px;
+        box-shadow: rgb(149 157 165 / 20%) 0px 0px 5px;
+    }
+    .verital-product-design p{
+        font-size: 10px;
+    }
+
+

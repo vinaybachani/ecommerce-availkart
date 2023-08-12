@@ -1,0 +1,7 @@
+.form-select-city:focus{
+    box-shadow: none;
+}
+.form-control:focus{
+  box-shadow: none;
+  border-color: #FF7E1F;
+}

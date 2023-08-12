@@ -1,0 +1,118 @@
+.order-div::-webkit-scrollbar {
+    display: none;
+}  
+
+.navy-button{
+    background-color: #222F3F;
+}
+
+.tracking-symbol-1::after{
+    content: "";
+    position: relative;
+    width: 3px;
+    height: 34px;
+    background-color: #000;
+    right: 6px;
+    top: 28px;
+}
+
+.tracking-symbol-2::after{
+    content: "";
+    position: relative;
+    width: 2px;
+    height: 34px;
+    background-color: #000;
+    right: 8px;
+    top: 28px;
+}
+
+.tracking-symbol-3::after{
+    content: "";
+    position: relative;
+    width: 2px;
+    height: 34px;
+    background-color: #000;
+    right: 7px;
+    top: 28px;
+}
+
+.order-tracking-card{
+    height: 125px;
+}
+
+.border-radius-8px{
+    border-radius: 8px;
+}
+
+.order-img{
+    width: 60px;
+    height: 70px;
+}
+
+.order-track-div{
+    background-color: #F9E2A9; height: 25px;
+}
+
+.order-track-div p{
+    width: 120px;
+}
+
+.tracking-symbol-div{
+    height: 25px; 
+    width: 25px; 
+    border: 2px solid #000; 
+    border-radius: 50%;
+}
+
+.payment-card{
+    height: 60px;
+}
+
+.add-address-btn{
+    height: 40px;
+}
+
+.bg-yellow{
+    background-color: #F9E2A9;
+}
+
+.address-card{
+    height: 125px;
+}
+
+@media screen and (min-width: 992px){
+    .order-btn{
+        height: 50px;
+    }
+    .order-tracking-card{
+        width: 290px;
+    }
+}
+
+.bg-sky-blue{
+    background-color: #B3CCFF;
+}
+
+.bg-green{
+    background-color: #D6F0D2;
+}
+
+.text-yellow{
+    color: #FFBA49;
+}
+
+.theme-color{
+    color: #FB6436;
+}
+
+@media only screen and (min-width: 990px){
+    .rate-modal{
+        transform: translateX(80%); 
+    }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 600px){
+    .rate-modal{
+        transform: translateX(40%); 
+    }
+}

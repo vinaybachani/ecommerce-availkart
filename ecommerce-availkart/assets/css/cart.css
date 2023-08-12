@@ -1,0 +1,31 @@
+.cart-menu-div{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1), -1px -1px 1px 1px rgba(0,0,0,0.1); 
+    border-radius: 10px; 
+    right: 50px;
+    z-index: 99; 
+    background-color: #fff;
+}
+
+.product-name-div p{
+    font-size: calc(14px + (20 - 14) * ((100vw - 320px) / (1920 - 320))); font-weight: 400;
+}
+
+.menu-button{
+    height: 25px;
+}
+
+.bg-theme{
+    background-color: #FF7E1F;
+}
+
+.fa-minus-btn, .fa-plus-btn{
+    border-radius: 50px!important; 
+    border: 2px solid #fff!important;
+}
+
+.product-price, .product-quantity{
+    font-size: calc(16px + (24 - 16) * ((100vw - 320px) / (1920 - 320)));
+}

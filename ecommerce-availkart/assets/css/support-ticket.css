@@ -1,0 +1,11 @@
+.card{
+    border-radius: 8px;
+  }
+
+  .problem-status{
+    background-color: #FFC107;
+  }
+
+  .add-address-btn{
+    background-color: #222F3F;
+  }
